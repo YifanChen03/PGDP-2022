@@ -10,3 +10,15 @@
 [submodule "W02H02---Penguin-Casino"]
 	path = W02H02---Penguin-Casino
 	url = https://github.com/YifanChen03/W02H02---Penguin-Casino.git
+[submodule "W02H03---Wurzelhilfe-fuer-Fortgeschrittene"]
+	path = W02H03---Wurzelhilfe-fuer-Fortgeschrittene
+	url = https://github.com/YifanChen03/W02H03---Wurzelhilfe-fuer-Fortgeschrittene.git
+[submodule "W03H01---Array-Funktionen"]
+	path = W03H01---Array-Funktionen
+	url = https://github.com/YifanChen03/W03H01---Array-Funktionen.git
+[submodule "W03H02---Testing-fuer-die-Formel-1"]
+	path = W03H02---Testing-fuer-die-Formel-1
+	url = https://github.com/YifanChen03/W03H02---Testing-fuer-die-Formel-1.git
+[submodule "W03H03---Seam-Carving"]
+	path = W03H03---Seam-Carving
+	url = https://github.com/YifanChen03/W03H03---Seam-Carving.git
