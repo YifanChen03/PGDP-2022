@@ -4,3 +4,9 @@
 [submodule "W02H01---Meet-and-Greet-in-der-Antarktis"]
 	path = W02H01---Meet-and-Greet-in-der-Antarktis
 	url = https://github.com/YifanChen03/W02H01---Meet-and-Greet-in-der-Antarktis.git
+[submodule "W01H01---Hello-World-II"]
+	path = W01H01---Hello-World-II
+	url = https://github.com/YifanChen03/W01H01---Hello-World-II.git
+[submodule "W02H02---Penguin-Casino"]
+	path = W02H02---Penguin-Casino
+	url = https://github.com/YifanChen03/W02H02---Penguin-Casino.git
