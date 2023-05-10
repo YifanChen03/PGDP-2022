@@ -6,4 +6,4 @@
 - Serves as a record. 
 
 
-- All code that was not clearly pushed by myself belongs to the rightful author from the TUM staff.
+- All code that was not clearly pushed by myself belongs to the author from the TUM staff.
