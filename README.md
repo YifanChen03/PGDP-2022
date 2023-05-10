@@ -1,6 +1,6 @@
 # PGDP-2022
 ## Description
-- Collection of my coding projects at TUM.
+- Collection of my coding projects at TUM. (For PGDP)
 
 
 - Serves as a record for myself and whoever is interested. 
