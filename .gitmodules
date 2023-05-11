@@ -19,3 +19,78 @@
 [submodule "W03H03---Seam-Carving"]
 	path = W03H03---Seam-Carving
 	url = https://github.com/YifanChen03/W03H03---Seam-Carving.git
+[submodule "W04H01---Rekursive-Pingulogie"]
+	path = W04H01---Rekursive-Pingulogie
+	url = https://github.com/YifanChen03/W04H01---Rekursive-Pingulogie.git
+[submodule "W04H02---Mega-Merge-Sort"]
+	path = W04H02---Mega-Merge-Sort
+	url = https://github.com/YifanChen03/W04H02---Mega-Merge-Sort.git
+[submodule "W04H03---PenguHull"]
+	path = W04H03---PenguHull
+	url = https://github.com/YifanChen03/W04H03---PenguHull.git
+[submodule "W05H02---The-Pingu-Network"]
+	path = W05H02---The-Pingu-Network
+	url = https://github.com/YifanChen03/W05H02---The-Pingu-Network.git
+[submodule "W05H03---A-Messenger-is-Still-on-the-List"]
+	path = W05H03---A-Messenger-is-Still-on-the-List
+	url = https://github.com/YifanChen03/W05H03---A-Messenger-is-Still-on-the-List.git
+[submodule "W06H01---Listige-Launemacher"]
+	path = W06H01---Listige-Launemacher
+	url = https://github.com/YifanChen03/W06H01---Listige-Launemacher.git
+[submodule "W06H02---PUM-Server-Upgrade"]
+	path = W06H02---PUM-Server-Upgrade
+	url = https://github.com/YifanChen03/W06H02---PUM-Server-Upgrade.git
+[submodule "W06H03---Fun-with-Graphs"]
+	path = W06H03---Fun-with-Graphs
+	url = https://github.com/YifanChen03/W06H03---Fun-with-Graphs.git
+[submodule "W07H02---Sicherheit-Geht-Vor"]
+	path = W07H02---Sicherheit-Geht-Vor
+	url = https://github.com/YifanChen03/W07H02---Sicherheit-Geht-Vor.git
+[submodule "W07H03---Pingu-Sim"]
+	path = W07H03---Pingu-Sim
+	url = https://github.com/YifanChen03/W07H03---Pingu-Sim.git
+[submodule "W08H01---Simple-Generics"]
+	path = W08H01---Simple-Generics
+	url = https://github.com/YifanChen03/W08H01---Simple-Generics.git
+[submodule "W08H02---Effiziente-Aufgabenverwaltung"]
+	path = W08H02---Effiziente-Aufgabenverwaltung
+	url = https://github.com/YifanChen03/W08H02---Effiziente-Aufgabenverwaltung.git
+[submodule "W08H03---Baumiteration"]
+	path = W08H03---Baumiteration
+	url = https://github.com/YifanChen03/W08H03---Baumiteration.git
+[submodule "W09H01---Pinguin-Ausflug"]
+	path = W09H01---Pinguin-Ausflug
+	url = https://github.com/YifanChen03/W09H01---Pinguin-Ausflug.git
+[submodule "W09H03---Videoverarbeitung"]
+	path = W09H03---Videoverarbeitung
+	url = https://github.com/YifanChen03/W09H03---Videoverarbeitung.git
+[submodule "W09B01---Bonus-TicTacToe"]
+	path = W09B01---Bonus-TicTacToe
+	url = https://github.com/YifanChen03/W09B01---Bonus-TicTacToe.git
+[submodule "W09H02---Bahn-Analyse"]
+	path = W09H02---Bahn-Analyse
+	url = https://github.com/YifanChen03/W09H02---Bahn-Analyse.git
+[submodule "W10H01---Pengu-Trials"]
+	path = W10H01---Pengu-Trials
+	url = https://github.com/YifanChen03/W10H01---Pengu-Trials.git
+[submodule "W10H02---Pinguin-Schneeballschlacht"]
+	path = W10H02---Pinguin-Schneeballschlacht
+	url = https://github.com/YifanChen03/W10H02---Pinguin-Schneeballschlacht.git
+[submodule "W11H03---PinguChat"]
+	path = W11H03---PinguChat
+	url = https://github.com/YifanChen03/W11H03---PinguChat.git
+[submodule "W10H03---Bis-Zur-Unendlichkeit"]
+	path = W10H03---Bis-Zur-Unendlichkeit
+	url = https://github.com/YifanChen03/W10H03---Bis-Zur-Unendlichkeit.git
+[submodule "W12H02---PUM-Server-Synchronisierung"]
+	path = W12H02---PUM-Server-Synchronisierung
+	url = https://github.com/YifanChen03/W12H02---PUM-Server-Synchronisierung.git
+[submodule "W12H01---Work-Life-Balance-of-Threaduins"]
+	path = W12H01---Work-Life-Balance-of-Threaduins
+	url = https://github.com/YifanChen03/W12H01---Work-Life-Balance-of-Threaduins.git
+[submodule "W11B01---Pengu-Survivors"]
+	path = W11B01---Pengu-Survivors
+	url = https://github.com/YifanChen03/W11B01---Pengu-Survivors.git
+[submodule "W13H01---Von-Teilern-und-Vielfachen"]
+	path = W13H01---Von-Teilern-und-Vielfachen
+	url = https://github.com/YifanChen03/W13H01---Von-Teilern-und-Vielfachen.git
