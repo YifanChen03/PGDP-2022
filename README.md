@@ -1,9 +1,9 @@
 # PGDP-2022
 ## Description
-- Belongs to the collection of coding projects at TUM.
+- Collection of my coding projects at TUM. (For PGDP)
 
 
-- Serves as a record. 
+- Serves as a record for myself and whoever is interested. 
 
 
-- All code that was not clearly pushed by myself belongs to the rightful author from the TUM staff.
+- All code that was not clearly pushed by myself belongs to the author from the TUM staff.
